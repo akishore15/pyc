@@ -1,0 +1,4 @@
+This repository was dedicated to everyone who taught me how to code (my first coding language was Python) in Python. I really appreciate it, and now I want to teach more people. I really just want to teach.
+It is an honor to teach us all this, and sure, C++ and JavaScript are better, but only in your opinion; Python is the universal tactic of IT, and it is how we power IT. You at least have to know Python to 
+fundamentally know about all this IT and CS stuff. JavaScript has good roots too, but JavaScript is a bit less quality and quantity than Python, so we would need to honor Python, but what if you do not know 
+Python? PYC, the GitHub repository, was made to acknowledge Python and teach it. I have an agreement with Python. You need to know it! This is why you should use PYC, to better learn.
